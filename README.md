@@ -13,6 +13,9 @@
   <a href="mailto:rodrigo.nillo39@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@rodrigonillo2615" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
+  </a>
 </div>
 
 <br/>
@@ -26,6 +29,21 @@ I’m a **Data Analyst** transitioning from **15+ years in Corporate Finance** i
 - 💡 **Goal:** Turning raw data into actionable business results.
 
 ---
+  ## ⚡ GitHub Performance
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rn2812&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rn2812&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="160" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Rn2812&theme=neon-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph" />
+</div>
+
+---
+
+
 ## 🌟 Featured Projects
 
 | Project | Description | Stack | Video |
@@ -33,10 +51,12 @@ I’m a **Data Analyst** transitioning from **15+ years in Corporate Finance** i
 | **Green Horizon** | **♻️ Environmental Data**<br>Plataforma IoT + ML para monitorar indicadores ambientais, prever riscos e reduzir impactos operacionais com dashboards em tempo real. | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square) ![](https://img.shields.io/badge/IoT-blue?style=flat-square) ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | <a href="https://www.youtube.com/watch?v=uBX4BRvdpI0" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35px" alt="Watch Video"/></a> |
 | **FuturePath** | **🔮 AI Career Platform**<br>Sistema de IA com **NLP/LLMs** e **Random Forest** para analisar perfis, mapear habilidades e sugerir carreiras baseadas na demanda de mercado. | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/NLP-blue?style=flat-square) ![](https://img.shields.io/badge/LLM-412991?style=flat-square) ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | <a href="https://www.youtube.com/watch?v=nMP8Vf9yNDA&t=2s" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35px" alt="Watch Video"/></a> |
 | **Ascend** | **🎯 Customer Behavior AI**<br>Análise de **Churn Prediction** e sentimentos (NLP/RoBERTa) para retenção de clientes, detecção de emoções e geração de insights executivos. | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/RoBERTa-orange?style=flat-square) ![](https://img.shields.io/badge/NLP-blue?style=flat-square) | <a href="https://www.youtube.com/watch?v=71QKeY0abqw" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35px" alt="Watch Video"/></a> |
-| **Arandu** | **🌎 Climate Intelligence**<br>Solução de resiliência climática (foco no Nordeste) integrando SQL e BI para alertas de secas, queimadas e simuladores territoriais. | ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/GeoAnalytics-green?style=flat-square) | <a href="https://www.youtube.com/watch?v=G0JGIw2GGuc" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35px" alt="Watch Video"/></a> |
-| **Smart Radar**<br><sub>Intelligent Traffic Radar</sub> | **🛣️ Traffic Data Engineering**<br>Engenharia de Dados completa: Modelagem **Star Schema** (Fato Tráfego/Dimensões), ETL em Pentaho e criação de **BUS Matrix**. | ![](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Pentaho-blue?style=flat-square&logo=hitachi&logoColor=white) | — |
-
----
+| **Arandu** | **🌎 Climate Intelligence**<br>Solução de resiliência climática (foco no Nordeste) integrando SQL e BI para alertas de secas, queimadas e simuladores territoriais. | ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![](https://img.shields.io/badge/Oracle_SQL_Dev-4479A1?style=flat-square&logo=oracle&logoColor=white) ![](https://img.shields.io/badge/GeoAnalytics-green?style=flat-square) | <a href="https://www.youtube.com/watch?v=G0JGIw2GGuc" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35px" alt="Watch Video"/></a> |
+| **Smart Radar**<br><sub>Intelligent Traffic Radar</sub> | **🛣️ Traffic Data Engineering**<br>Engenharia de Dados completa: Modelagem **Star Schema** (Fato Tráfego/Dimensões), ETL e criação de **BUS Matrix**. | ![](https://img.shields.io/badge/Oracle_SQL_Dev-4479A1?style=flat-square&logo=oracle&logoColor=white) ![](https://img.shields.io/badge/Oracle_Data_Modeler-F80000?style=flat-square&logo=oracle&logoColor=white) ![](https://img.shields.io/badge/StarUML-2C2255?style=flat-square&logo=uml&logoColor=white) ![](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white) | — |
+| **Dublin Burger**<br><sub>Sales Intelligence</sub> | **🍔 Sales & Loyalty Analysis**<br>Análise de vendas e fidelidade de clientes. Modelagem relacional para identificação de padrões de consumo e performance. | ![](https://img.shields.io/badge/Oracle_SQL_Dev-4479A1?style=flat-square&logo=oracle&logoColor=white) ![](https://img.shields.io/badge/Oracle_Data_Modeler-F80000?style=flat-square&logo=oracle&logoColor=white) ![](https://img.shields.io/badge/StarUML-2C2255?style=flat-square&logo=uml&logoColor=white) ![](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white) | — |
+| **FiveStar Cinemas**<br><sub>Box Office Analytics</sub> | **🎬 Cinema KPIs & Metrics**<br>Métricas de bilheteria e exibição. Estruturação de banco de dados para controle de sessões, ocupação de salas e receita. | ![](https://img.shields.io/badge/Oracle_SQL_Dev-4479A1?style=flat-square&logo=oracle&logoColor=white) ![](https://img.shields.io/badge/Oracle_Data_Modeler-F80000?style=flat-square&logo=oracle&logoColor=white) ![](https://img.shields.io/badge/StarUML-2C2255?style=flat-square&logo=uml&logoColor=white) ![](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white) | — |
+| **Arca de Noé**<br><sub>Vet Clinic Data</sub> | **🐾 Veterinary Clinical KPIs**<br>Análise de KPIs clínicos veterinários. Modelagem de dados para prontuários, tratamentos e gestão hospitalar pet. | ![](https://img.shields.io/badge/Oracle_SQL_Dev-4479A1?style=flat-square&logo=oracle&logoColor=white) ![](https://img.shields.io/badge/Oracle_Data_Modeler-F80000?style=flat-square&logo=oracle&logoColor=white) ![](https://img.shields.io/badge/StarUML-2C2255?style=flat-square&logo=uml&logoColor=white) ![](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white) | — |
+| **GBS Future of Work**<br><sub>Workforce Trends</sub> | **🚀 HR Analytics & Skills**<br>Insights sobre tendências e habilidades profissionais. Análise preditiva sobre o futuro do trabalho e lacunas de competência. | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white) ![](https://img.shields.io/badge/Data_Viz-orange?style=flat-square) | — |
 
 ---
 ## 🛠️ Tech Stack & Tools
@@ -52,19 +72,6 @@ I’m a **Data Analyst** transitioning from **15+ years in Corporate Finance** i
 
 </div>
 
----
-
-## ⚡ GitHub Performance
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rn2812&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rn2812&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Rn2812&theme=neon-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph" />
-</div>
 
 ---
 
