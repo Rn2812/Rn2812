@@ -43,19 +43,6 @@ I’m a **Data Analyst** transitioning from **15+ years in Corporate Finance** i
   <img src="https://streak-stats.demolab.com?user=Rn2812&theme=dracula&hide_border=true&border_radius=10&ring=0047AB&fire=0047AB&currStreakLabel=0047AB" height="150" alt="streak graph" />
 </div>
 
----
-
-  ## ⚡ GitHub Performance
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rn2812&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rn2812&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Rn2812&theme=neon-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph" />
-</div>
 
 ---
 
