@@ -22,7 +22,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
 
-I’m a **Data Analyst** transitioning from **15+ years in Corporate Finance** into **Data Science, Machine Learning, and BI**. My background allows me to bridge the gap between technical models and financial KPIs.
+I’m a **Data Analyst** transitioning from **10+ years in Corporate Finance** into **Data Science, Machine Learning, and BI**. My background allows me to bridge the gap between technical models and financial KPIs.
 
 - 🎓 Completing Data Science degree at **FIAP** (2026).
 - 🚀 **Focus:** Predictive modeling, Dashboards (Storytelling), NLP, and Applied ML.
