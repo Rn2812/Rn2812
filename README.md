@@ -33,7 +33,7 @@ Profile repository: Rn2812/Rn2812
 
 ## Executive Profile
 
-I am a professional with **10+ years of experience in Corporate Finance, Planning, Credit Recovery, KPIs and business analysis**, currently transitioning into **Data Analytics, Business Intelligence, Data Science and Cloud Computing**.
+I am a professional with **15+ years of experience in Corporate Finance, Planning, Credit Recovery, KPIs and business analysis**, currently transitioning into **Data Analytics, Business Intelligence, Data Science and Cloud Computing**.
 
 My main strength is connecting **business context** with **technical data solutions**. I develop projects involving data extraction, cleaning, transformation, analysis, dashboards, predictive modeling, automation and executive storytelling.
 
