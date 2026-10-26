@@ -37,7 +37,7 @@
 
 **Em construção:** FinGuard 360, um pipeline de risco de recebíveis que prevê atraso acima de 30 dias e gera uma fila de cobrança priorizada (Python, SQL, scikit-learn, Power BI). Publicação por etapas a partir de novembro de 2026.
 
-Projetos acadêmicos da FIAP: [Data-Scientist](https://github.com/Rn2812/Data-Scientist) · [Green Horizon](https://github.com/Rn2812/Proj_Green-Horizon)
+Projeto acadêmico da FIAP: [Green Horizon](https://github.com/Rn2812/Proj_Green-Horizon)
 
 ---
 
