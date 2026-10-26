@@ -2,9 +2,9 @@
 
 # Rodrigo Nillo
 
-**Analista de Dados e BI · Crédito, Cobrança e Risco**
+**Analista de Dados - BI · Crédito, Cobrança, Planejamento e Risco**
 
-15+ anos em finanças corporativas, análise de crédito, recuperação e PDD (ALE Empreendimentos, Edenred e Ticket), hoje aplicando Python, SQL, Power BI e Machine Learning a problemas de inadimplência, carteira e indicadores financeiros. Graduação tecnológica em Data Science na FIAP.
+15+ anos em finanças corporativas, análise de crédito, recuperação e PDD (ALE Empreendimentos, Edenred Brasil e Ticket Serviços), hoje aplicando Python, SQL, Power BI e Machine Learning a problemas de inadimplência, carteira e indicadores financeiros. Graduação tecnológica em Data Science na FIAP e Bacharelado em Administração pela Uninove.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigo--nillo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-nillo/)
 [![E-mail](https://img.shields.io/badge/E--mail-rodrigo.nillo86%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rodrigo.nillo86@gmail.com)
