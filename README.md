@@ -2,7 +2,7 @@
 
 # Rodrigo Nillo
 
-Analista de Dados e BI | Crédito, Cobrança e Risco | SQL • Python • Power BI | Business Intelligence • PDD • Automação | Data Science FIAP
+**Analista de Dados e BI | Crédito, Cobrança e Risco | SQL • Python • Power BI | Business Intelligence • PDD • Automação | Data Science FIAP**
 
 15+ anos em finanças corporativas, análise de crédito, recuperação e PDD (ALE Empreendimentos, Edenred Brasil e Ticket Serviços), hoje aplicando Python, SQL, Power BI e Machine Learning a problemas de inadimplência, carteira e indicadores financeiros. Graduação tecnológica em Data Science na FIAP e Bacharelado em Administração pela Uninove.
 
