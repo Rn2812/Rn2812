@@ -30,14 +30,15 @@
 
 | Projeto | Problema | O que tem no repositório |
 |---|---|---|
-| [**DaisyCare Next**](https://github.com/Rn2812/DaisyCare_Next) · [demo](https://rn2812.github.io/DaisyCare_Next/)<br>🥇 **Ouro no FIAP NEXT 2026** (melhor entre 10 projetos da turma de Data Science) | Faltas, cancelamentos e vagas ociosas na jornada do paciente (8,7% de no-show em 200 mil agendamentos sintéticos) | Assistente no app e no WhatsApp que confirma, cancela e reagenda (v40.93) e oferece a vaga à fila de encaixe; 16 workflows n8n; modelo de ML de comparecimento (AUC 0,70); medidas DAX para Power BI; 124 testes automatizados (Playwright) |
+| [**DaisyCare Next**](https://github.com/Rn2812/DaisyCare_Next) · [demo](https://rn2812.github.io/DaisyCare_Next/)<br>🥇 **Ouro no FIAP NEXT 2026** (melhor entre 10 projetos da turma de Data Science) | Faltas, cancelamentos e vagas ociosas na jornada do paciente (8,7% de no-show em 200 mil agendamentos sintéticos) | Assistente no app e no WhatsApp que confirma, cancela e reagenda (v40.93) e oferece a vaga à fila de encaixe; 16 workflows n8n (10 testados em ambiente local); modelo de ML que prioriza contato extra (AUC 0,70; no decil de maior risco, 67% não viram consulta); medidas DAX para Power BI; 130 testes automatizados (Playwright) |
 | [**Data Warehouse ELT/ETL**](https://github.com/Rn2812/Data_Warehouse_ELT_ETL) | Modelagem analítica para cenários de negócio | 5 modelos dimensionais (Star Schema) com DDL/DML em Oracle e documentação lógica e relacional |
 | [**FuturePath**](https://github.com/Rn2812/Proj_FuturePath) | Desalinhamento entre habilidades profissionais e demanda do mercado | Proposta de arquitetura em Azure e notebook que simula suas camadas (ingestão, ML com Random Forest e monitoramento) com dados sintéticos |
+| [**BIA na AWS**](https://github.com/Rn2812/bia) | Levar uma aplicação Node.js + PostgreSQL para a nuvem com entrega contínua | Build e push de imagem Docker no ECR, deploy no ECS e pipeline CodeBuild (`buildspec.yml`), feitos na Imersão AWS & IA |
 | [**Ascend**](https://github.com/Rn2812/Proj_Ascend) *(em equipe)* | Identificar sentimento e sinais de churn em feedbacks de clientes | Análise de sentimentos em português com XLM-RoBERTa, detecção de sarcasmo e dashboard |
 
 **Em construção:** FinGuard 360, um pipeline de risco de recebíveis que prevê atraso acima de 30 dias e gera uma fila de cobrança priorizada (Python, SQL, scikit-learn, Power BI). Publicação por etapas a partir de novembro de 2026.
 
-Projeto acadêmico da FIAP: [Green Horizon](https://github.com/Rn2812/Proj_Green-Horizon)
+Projeto acadêmico da FIAP: [Green Horizon](https://github.com/Rn2812/Proj_Green-Horizon), proposta de plataforma de dados para investimentos em energia renovável (Global Solution 2024)
 
 ---
 
